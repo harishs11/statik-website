@@ -1,2 +1,2 @@
 # CLOUD-is-AWSome
-TEST PAGE SITE
+Test webpage for aws cloud
