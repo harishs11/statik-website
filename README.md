@@ -1,2 +1,2 @@
-# CLOUD-is-AWSome
+# CLOUD
 Test webpage for aws cloud
